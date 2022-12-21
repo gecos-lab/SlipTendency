@@ -2,7 +2,7 @@
 
 ***SlipTendency*** is a Matlab open-source stress modelling application that can be used to test the proness of planes with variable attitude to slip under an input stress field. In addition to classical slip tendency analysis (e.g. ), ***anisotropic slip tendency analysis*** can be performed as in the papers listed in the following, that also include some theory and case studies.
 
-If you have questions or you think you have found a bug, please contact me through the ***Issues*** system (in this way the interaction will remain recorded for future users).
+If you have questions or you think you have found a bug, please contact me through the [***issues***](https://github.com/andrea-bistacchi/SlipTendency/issues) system (in this way the interaction will remain recorded for future users).
 
 In case you use ***SlipTendency***, please cite:
 
@@ -15,6 +15,8 @@ Bolognesi, F., Bistacchi, A., 2016. Weakness and mechanical anisotropy of phyllo
 Bolognesi, F., Bistacchi, A., 2018. A km-scale “triaxial experiment” reveals the extreme mechanical weakness and anisotropy of mica-schists (Grandes Rousses Massif, France). Journal of Structural Geology 107, 53–63. https://doi.org/10.1016/j.jsg.2017.12.001
 
 Traforti, A., Massironi, M., Bistacchi, A., Zampieri, D., Viola, G., 2018. Slip-tendency analysis as a tool to constrain the mechanical properties of anisotropic rocks. Journal of Structural Geology 117, 136–147. https://doi.org/10.1016/j.jsg.2018.09.001
+
+
 
 ***SlipTendency*** © 2022 by Andrea Bistacchi, released under [GNU AGPLv3 license](LICENSE.txt).
 
