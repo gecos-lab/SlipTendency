@@ -23,4 +23,4 @@ Traforti, A., Massironi, M., Bistacchi, A., Zampieri, D., Viola, G., 2018. Slip-
 ***SlipTendency*** © 2022 by Andrea Bistacchi, released under [GNU AGPLv3 license](LICENSE).
 
 \
-[![DOI](https://zenodo.org/badge/439080627.svg)](https://zenodo.org/badge/latestdoi/439080627)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7467542.svg)](https://doi.org/10.5281/zenodo.7467542)
