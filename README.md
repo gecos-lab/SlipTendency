@@ -4,6 +4,8 @@
 
 If you have questions or you think you have found a bug, please contact me through the [***issues***](https://github.com/andrea-bistacchi/SlipTendency/issues) system (in this way the interaction will remain recorded for future users).
 
+\
+\
 In case you use ***SlipTendency***, please cite:
 
 Massironi, M., Bistacchi, A., Menegon, L., 2011. Misoriented faults in exhumed metamorphic complexes: Rule or exception? Earth and Planetary Science Letters 307, 233–239. https://doi.org/10.1016/j.epsl.2011.04.041
@@ -16,9 +18,9 @@ Bolognesi, F., Bistacchi, A., 2018. A km-scale “triaxial experiment” reveals
 
 Traforti, A., Massironi, M., Bistacchi, A., Zampieri, D., Viola, G., 2018. Slip-tendency analysis as a tool to constrain the mechanical properties of anisotropic rocks. Journal of Structural Geology 117, 136–147. https://doi.org/10.1016/j.jsg.2018.09.001
 
-
-
-***SlipTendency*** © 2022 by Andrea Bistacchi, released under [GNU AGPLv3 license](LICENSE.txt).
+\
+\
+***SlipTendency*** © 2022 by Andrea Bistacchi, released under [GNU AGPLv3 license](LICENSE).
 
 \
 [![DOI](https://zenodo.org/badge/439080627.svg)](https://zenodo.org/badge/latestdoi/439080627)
