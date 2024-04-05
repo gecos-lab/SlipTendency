@@ -1,6 +1,6 @@
 # SlipTendency #
 
-***SlipTendency*** is a Matlab open-source stress modelling application that can be used to test the proness of planes with variable attitude to slip under an input stress field. In addition to classical slip tendency analysis (e.g. ), ***anisotropic slip tendency analysis*** can be performed as in the papers listed in the following, that also include some theory and case studies.
+***SlipTendency*** is a Matlab open-source stress modelling application that can be used to test the proness of planes with variable attitude to slip (slip tendency) or dilate (dialtion tendency) under an input stress field. In addition to classical slip tendency analysis, ***anisotropic slip tendency analysis*** can be performed as in the papers listed in the following, that also include some theory and case studies.
 
 If you have questions or you think you have found a bug, please contact me through the [***issues***](https://github.com/andrea-bistacchi/SlipTendency/issues) system (in this way the interaction will remain recorded for future users).
 
